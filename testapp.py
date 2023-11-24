@@ -7,4 +7,3 @@ def hello_world():
 @app.route("/test")
 def test():
     return "test"
-
